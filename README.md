@@ -8,4 +8,4 @@ I also made a black and white version to fit to almost every corporate identity.
 You can download the infographic as a PDF at the end of the document containing versions in english and german.
 
 Preview:
-![phishing_infrographic_1](https://user-images.githubusercontent.com/44299200/172055882-85dff47b-19ed-43b8-8159-02858c4692d8.png)
+![phishing_infrographic_1](https://user-images.githubusercontent.com/44299200/172055954-8df79d4d-5ae8-4716-8c49-69387572050c.png)
